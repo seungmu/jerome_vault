@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "흄 David Hume.md",
+            "file": "Figure Table.md",
             "mode": "preview"
           }
         }
@@ -68,6 +68,14 @@
             "id": "bead13e6db877461",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2949acf452c0fbac",
+            "type": "leaf",
+            "state": {
               "type": "recent-files",
               "state": {}
             }
@@ -92,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "흄 David Hume.md",
+                "file": "Figure Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "흄 David Hume.md",
+                "file": "Figure Table.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -132,27 +140,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "흄 David Hume.md"
+                "file": "Figure Table.md"
               }
             }
           },
           {
-            "id": "f763db2bb07b49c4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "879a571935da7034",
+            "id": "acc3855ca53b7eb1",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -160,10 +161,10 @@
   },
   "active": "ef3d26d5cf6de34b",
   "lastOpenFiles": [
-    "흄 David Hume.md",
-    "칸트 Immanuel Kant 1724~1804.md",
     "Figure Table.md",
     "영국.md",
+    "흄 David Hume.md",
+    "칸트 Immanuel Kant 1724~1804.md",
     "루소 Jean-Jacques Rousseau 1712~1778.md",
     "흄 David Hume 1711~1776.md",
     "Test metadata.md",
