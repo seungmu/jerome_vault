@@ -1,0 +1,6 @@
+- 鸠摩搜书 https://www.jiumodiary.com/
+- 书单网 https://www.shudan.vip/
+- 走读派 http://www.zoudupai.com/
+- 云海电子图书馆 http://www.pdfbook.cn/
+- 好读 http://haodoo.net/
+- 书格 https://new.shuge.org/

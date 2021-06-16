@@ -1,0 +1,6 @@
+- [[ted]] 
+- [link](https://www.ted.com/talks/joseph_gordon_levitt_how_craving_attention_makes_you_less_creative)
+- Social media makes money by attentions from people.
+- Craving [[attention]] is like addiction that can never be satisfied. 
+- Craving attention makes you focus on other things instead the thing itself and finally makes you perform worse than you are.
+- Try more paying attention to something without any disturb will make us more happy([[happiness]]) according to research. 

@@ -1,0 +1,1 @@
+- [[후설 Edmund Husserl 1859~1938]]

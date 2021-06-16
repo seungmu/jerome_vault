@@ -1,0 +1,11 @@
+- [[Zottelkasten Method]]
+- Need two box, the first one is bibliographical one and another one is the main box.
+    - I have reference folder and Idea folder
+- Three steps:
+    - 1. Take fleeting notes - it's a short and brief note that was taken whenever you have any idea
+    - 2. Make literature notes - make a reference and use a short words to define it.
+    - 3. Make permanent notes - use formal words to take note and this must be able to understand without any context and throw fleeting notes away.
+    - 4. Add new note to the slip box:
+        - 1. Put new notes at the end of the related notes
+        - 2. Adding links to the related notes.
+        - 3. Make sure you can find this note later either by link or in the folder.

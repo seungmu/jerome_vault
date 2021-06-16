@@ -1,0 +1,3 @@
+- [[ted]]
+- [link](https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness?rid=4lGJ1YhBdZH3#t-749853)
+- From the study over 75 years, it's not the number of relationship, it's the quality of the [[relationship]] with close friends and spouse decide the [[happiness]] of your life. When we were old whether we can rely on the half of our lives decide heavily on whether they are satisfied with their lief.

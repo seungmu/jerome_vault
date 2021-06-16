@@ -1,0 +1,1 @@
+- [[카를 포퍼 Karl Raimund Popper 1902~1994]]

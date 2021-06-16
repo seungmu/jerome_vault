@@ -1,0 +1,2 @@
+- [[벤담 Jeremy Bentham 1748-1832]]
+- [[존 스튜어트 밀 John Stuart Mill 1806-1873]]

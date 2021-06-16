@@ -1,0 +1,13 @@
+- reference - [[How to Take Smart Notes - Sönke Ahrens]]
+- 1. start from reference information book notes, highlights
+- 2. read through reference -> bold the key portion.
+- 3. select the bolded text that you want to turn into a permanent note & add to your slip box. only that you think importnat or connect to others.
+- 4. link that note to other notest in your slip box
+- --
+- 1. Write down the idea when you are reading and do not copy and paste. Write in your own words.
+- 2. 需要两个box, 一个用于记录想法和参考文献，另一个则是主要的，主要是自己的想法
+- --
+- 1. Take notes anytime you have an idea briefly(Fleeting notes)
+- 2. Make a reference so that you can find later and use short words to define it(Reference Notes)
+- 3. Use formal words to take notes and throw fleeting notes away; Make permanent notes understandable without context.
+- 4. Add new notes to the slip-box (use keyword and tags)

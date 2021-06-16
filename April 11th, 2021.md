@@ -1,0 +1,2 @@
+- [[플라톤 Platon BC427~BC347]]
+- [[아리스토텔레스 Aristoteles BC384~BC322]]

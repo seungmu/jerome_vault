@@ -1,0 +1,22 @@
+- [[ted]] 
+- [link](https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen)
+- Why people don't listen
+- 1. gossip
+- 2. judging
+- 3. negativity
+- 4. complaining
+- 5. excuses
+- 6. exaggeration 
+- 7. dogmatism (偏见)
+- HAIL:
+- Honesty
+- Authenticity
+- Integrity
+- Love
+- Tools:
+- Register 音域: locate your voice bottom
+- timbre 音色: practice to improve
+- prisody 韵律: 
+- pace 速度
+- pitch
+- volume

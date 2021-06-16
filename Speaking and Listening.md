@@ -1,0 +1,2 @@
+- Reference: [[How to speak so that people want to listen]]
+- If you want other people listen to your word you should avoid something and as for using tools you should know how to use your tool properly.
