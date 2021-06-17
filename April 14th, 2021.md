@@ -8,5 +8,5 @@
         - Excel Add-in을 만들어서 publishing 하는것
     - [[싫어하는 일의 목록]]
     - [[정신나간 일 목록]]
-- [[에피쿠로스 Epikouros BC341~BC270]]
-- [[마르쿠스 아우렐리우스 Marcus Aurelius 121~180]]
+- [[에피쿠로스 Epikouros]]
+- [[마르쿠스 아우렐리우스 Marcus Aurelius]]

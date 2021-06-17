@@ -1,1 +1,1 @@
-- [[니체 Friedrich Nietzsche 1844~1900]]
+- [[니체 Friedrich Nietzsche]]

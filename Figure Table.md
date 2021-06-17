@@ -1,4 +1,7 @@
+
 ```dataview
-table name, from, to, where
-from #figure2
+table start, end, where
+from #philosopher
+sort start
+
 ```

@@ -1,1 +1,1 @@
-- [[소크라테스 SocratesBC470 ~BC399]]
+- [[소크라테스 Socrates]]

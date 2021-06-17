@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "세탁 살림 백과.md",
+            "file": "마르쿠스 아우렐리우스 Marcus Aurelius.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "84e95dc05d9c7664",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "하이데거 海德格尔 Martin Heidegger.md",
             "mode": "source"
           }
         }
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "루소",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eb31f0748bd408c7",
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "세탁 살림 백과.md",
+                "file": "마르쿠스 아우렐리우스 Marcus Aurelius.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "세탁 살림 백과.md",
+                "file": "마르쿠스 아우렐리우스 Marcus Aurelius.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "세탁 살림 백과.md"
+                "file": "마르쿠스 아우렐리우스 Marcus Aurelius.md"
               }
             }
           },
@@ -147,15 +157,15 @@
   },
   "active": "ef3d26d5cf6de34b",
   "lastOpenFiles": [
-    "세탁 살림 백과.md",
-    "Untitled.md",
+    "마르쿠스 아우렐리우스 Marcus Aurelius.md",
     "Figure Table.md",
-    "영국.md",
-    "흄 David Hume.md",
-    "칸트 Immanuel Kant 1724~1804.md",
+    "방법 서설.md",
+    "데카르트 笛卡尔 Descartes.md",
+    "루소 Jean-Jacques Rousseau.md",
+    "미셸 푸코 Michel Paul Foucault.md",
+    "헤라클레이토스 Herakleitos.md",
     "루소 Jean-Jacques Rousseau 1712~1778.md",
-    "흄 David Hume 1711~1776.md",
-    "Test metadata.md",
-    "후설 Edmund Husserl 1859~1938.md"
+    "니체 Friedrich Nietzsche.md",
+    "루드비히 반 베토벤 Ludiwg van Beethoven 1770-1827.md"
   ]
 }

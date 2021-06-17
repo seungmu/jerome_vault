@@ -1,1 +1,1 @@
-- [[버트런드 러셀 Bertrand Russell 1872~1970]]
+- [[버트런드 러셀 Bertrand Russell]]

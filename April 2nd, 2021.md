@@ -23,4 +23,4 @@
         - 안정적으로 책을 꽂고 볼수 있는 기기
     - [[싫어하는 일의 목록]]
     - [[정신나간 일 목록]]
-- [[루소 Jean-Jacques Rousseau 1712~1778]]
+- [[루소 Jean-Jacques Rousseau]]

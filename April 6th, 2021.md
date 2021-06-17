@@ -17,6 +17,6 @@
         - 좋으 하루를 보내길
     - 오늘 어떻게 더 좋은 날로 만들것인가:
         - 긍정적인 마인드로
-- [[탈레스 Thales BC624~BC546]]
-- [[헤라클레이토스 Herakleitos BC540~BC480]]
-- [[파르메니데스 Parmenides BC515~BC445]]
+- [[탈레스 Thales]]
+- [[헤라클레이토스 Herakleitos]]
+- [[파르메니데스 Parmenides]]

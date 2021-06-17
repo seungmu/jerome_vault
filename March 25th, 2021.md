@@ -19,4 +19,4 @@
         - 긍정적인 생각으로 
     - [[싫어하는 일의 목록]]
     - [[정신나간 일 목록]]
-- [[라이프니츠 Gottfried Wilhelmvon Leibniz 1646~1716]]
+- [[라이프니츠 Gottfried Wilhelmvon Leibniz]]

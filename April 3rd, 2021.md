@@ -1,1 +1,1 @@
-- [[칸트 Immanuel Kant 1724~1804]]
+- [[칸트 Immanuel Kant]]

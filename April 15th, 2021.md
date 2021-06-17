@@ -2,5 +2,5 @@
     - 꼼꼼하게 비교하고 그렇게 돈 벌기 위해서 애쓰는것이 싫다고 했다. 그렇다면 어쩔수 없다. 그냥 니가 하고 싶은 대로 하지뭐.
     - Weather: 우중충함
     - Mood: 나쁨
-- [[아우구스티누스 Aurelius Augustinus 354~430]]
-- [[토마스 아퀴나스 Thomas Aquinas 1225~1274]]
+- [[아우구스티누스 Aurelius Augustinus]]
+- [[토마스 아퀴나스 Thomas Aquinas]]
