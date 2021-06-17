@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ef3d26d5cf6de34b",
+        "id": "7499d07d08dbcbc2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "마르쿠스 아우렐리우스 Marcus Aurelius.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "84e95dc05d9c7664",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "하이데거 海德格尔 Martin Heidegger.md",
+            "file": "June 18th, 2021.md",
             "mode": "source"
           }
         }
@@ -75,7 +64,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "마르쿠스 아우렐리우스 Marcus Aurelius.md",
+                "file": "June 18th, 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "마르쿠스 아우렐리우스 Marcus Aurelius.md",
+                "file": "June 18th, 2021.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "마르쿠스 아우렐리우스 Marcus Aurelius.md"
+                "file": "June 18th, 2021.md"
               }
             }
           },
@@ -155,17 +145,17 @@
     "width": 330,
     "collapsed": true
   },
-  "active": "ef3d26d5cf6de34b",
+  "active": "7499d07d08dbcbc2",
   "lastOpenFiles": [
-    "마르쿠스 아우렐리우스 Marcus Aurelius.md",
+    "June 18th, 2021.md",
     "Figure Table.md",
-    "방법 서설.md",
-    "데카르트 笛卡尔 Descartes.md",
+    "소크라테스 Socrates.md",
     "루소 Jean-Jacques Rousseau.md",
-    "미셸 푸코 Michel Paul Foucault.md",
-    "헤라클레이토스 Herakleitos.md",
-    "루소 Jean-Jacques Rousseau 1712~1778.md",
-    "니체 Friedrich Nietzsche.md",
-    "루드비히 반 베토벤 Ludiwg van Beethoven 1770-1827.md"
+    "하이데거 海德格尔 Martin Heidegger.md",
+    "No Country for Old Men (老无所依).md",
+    "Marriage Story.md",
+    "마르쿠스 아우렐리우스 Marcus Aurelius.md",
+    "방법 서설.md",
+    "데카르트 笛卡尔 Descartes.md"
   ]
 }
