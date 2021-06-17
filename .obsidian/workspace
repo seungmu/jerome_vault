@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Figure Table.md",
-            "mode": "preview"
+            "file": "세탁 살림 백과.md",
+            "mode": "source"
           }
         }
       }
@@ -57,22 +57,6 @@
             }
           },
           {
-            "id": "2bc466e2c7793b67",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "bead13e6db877461",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "2949acf452c0fbac",
             "type": "leaf",
             "state": {
@@ -84,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "eb31f0748bd408c7",
@@ -100,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Figure Table.md",
+                "file": "세탁 살림 백과.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Figure Table.md",
+                "file": "세탁 살림 백과.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Figure Table.md"
+                "file": "세탁 살림 백과.md"
               }
             }
           },
@@ -157,10 +142,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330
+    "width": 330,
+    "collapsed": true
   },
   "active": "ef3d26d5cf6de34b",
   "lastOpenFiles": [
+    "세탁 살림 백과.md",
+    "Untitled.md",
     "Figure Table.md",
     "영국.md",
     "흄 David Hume.md",
@@ -168,8 +156,6 @@
     "루소 Jean-Jacques Rousseau 1712~1778.md",
     "흄 David Hume 1711~1776.md",
     "Test metadata.md",
-    "후설 Edmund Husserl 1859~1938.md",
-    "June 17th, 2021.md",
-    "Marriage Story.md"
+    "후설 Edmund Husserl 1859~1938.md"
   ]
 }
