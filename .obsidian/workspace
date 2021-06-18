@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "June 18th, 2021.md",
-            "mode": "source"
+            "file": "Who moved my cheese - Spencer Johnson.md",
+            "mode": "preview"
           }
         }
       }
@@ -64,8 +64,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "June 18th, 2021.md",
+                "file": "Who moved my cheese - Spencer Johnson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "June 18th, 2021.md",
+                "file": "Who moved my cheese - Spencer Johnson.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "June 18th, 2021.md"
+                "file": "Who moved my cheese - Spencer Johnson.md"
               }
             }
           },
@@ -147,15 +146,15 @@
   },
   "active": "7499d07d08dbcbc2",
   "lastOpenFiles": [
-    "June 18th, 2021.md",
+    "Who moved my cheese - Spencer Johnson.md",
     "Figure Table.md",
-    "소크라테스 Socrates.md",
-    "루소 Jean-Jacques Rousseau.md",
-    "하이데거 海德格尔 Martin Heidegger.md",
-    "No Country for Old Men (老无所依).md",
-    "Marriage Story.md",
-    "마르쿠스 아우렐리우스 Marcus Aurelius.md",
-    "방법 서설.md",
-    "데카르트 笛卡尔 Descartes.md"
+    "영국.md",
+    "레알.md",
+    "How to Take Smart Notes - Sönke Ahrens.md",
+    "OKR.md",
+    "philosopher.md",
+    "Professional Happiness Design.md",
+    "relationship.md",
+    "roam research Javascript.md"
   ]
 }
