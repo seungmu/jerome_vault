@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Who moved my cheese - Spencer Johnson.md",
+            "file": "How to speak so that people want to listen.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "루소",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Who moved my cheese - Spencer Johnson.md",
+                "file": "How to speak so that people want to listen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Who moved my cheese - Spencer Johnson.md",
+                "file": "How to speak so that people want to listen.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Who moved my cheese - Spencer Johnson.md"
+                "file": "How to speak so that people want to listen.md"
               }
             }
           },
@@ -146,15 +146,15 @@
   },
   "active": "7499d07d08dbcbc2",
   "lastOpenFiles": [
+    "How to speak so that people want to listen.md",
     "Who moved my cheese - Spencer Johnson.md",
-    "Figure Table.md",
     "영국.md",
     "레알.md",
-    "How to Take Smart Notes - Sönke Ahrens.md",
-    "OKR.md",
-    "philosopher.md",
-    "Professional Happiness Design.md",
-    "relationship.md",
-    "roam research Javascript.md"
+    " SMZDM.md",
+    "Diary.md",
+    "人间值得 - 中村恒子,奥田弘美.md",
+    "Figure/프리즈너스 (囚徒).md",
+    "Movie/そして父になる(如父如子).md",
+    "Movie/살인의 추억.md"
   ]
 }
