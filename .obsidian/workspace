@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "How to speak so that people want to listen.md",
-            "mode": "preview"
+            "file": "Who moved my cheese - Spencer Johnson.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "eb31f0748bd408c7",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to speak so that people want to listen.md",
+                "file": "Who moved my cheese - Spencer Johnson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to speak so that people want to listen.md",
+                "file": "Who moved my cheese - Spencer Johnson.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to speak so that people want to listen.md"
+                "file": "Who moved my cheese - Spencer Johnson.md"
               }
             }
           },
@@ -146,15 +147,15 @@
   },
   "active": "7499d07d08dbcbc2",
   "lastOpenFiles": [
-    "How to speak so that people want to listen.md",
     "Who moved my cheese - Spencer Johnson.md",
+    "세탁 살림 백과.md",
+    "Daily Note/June 19th, 2021.md",
+    "How to speak so that people want to listen.md",
     "영국.md",
     "레알.md",
     " SMZDM.md",
     "Diary.md",
     "人间值得 - 中村恒子,奥田弘美.md",
-    "Figure/프리즈너스 (囚徒).md",
-    "Movie/そして父になる(如父如子).md",
-    "Movie/살인의 추억.md"
+    "Figure/프리즈너스 (囚徒).md"
   ]
 }
