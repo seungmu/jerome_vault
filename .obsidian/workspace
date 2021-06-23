@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Who moved my cheese - Spencer Johnson.md",
+            "file": "Daily Note/June 24th, 2021.md",
             "mode": "source"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Who moved my cheese - Spencer Johnson.md",
+                "file": "Daily Note/June 24th, 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Who moved my cheese - Spencer Johnson.md",
+                "file": "Daily Note/June 24th, 2021.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Who moved my cheese - Spencer Johnson.md"
+                "file": "Daily Note/June 24th, 2021.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "7499d07d08dbcbc2",
   "lastOpenFiles": [
+    "Daily Note/June 24th, 2021.md",
+    "채식주의자 - 한강.md",
+    "Daily Note/June 22nd, 2021.md",
     "Who moved my cheese - Spencer Johnson.md",
     "세탁 살림 백과.md",
     "Daily Note/June 19th, 2021.md",
     "How to speak so that people want to listen.md",
     "영국.md",
     "레알.md",
-    " SMZDM.md",
-    "Diary.md",
-    "人间值得 - 中村恒子,奥田弘美.md",
-    "Figure/프리즈너스 (囚徒).md"
+    " SMZDM.md"
   ]
 }
